@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mafphp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Mafphp/Mafphp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mohammadali Farhad
+- 👀 I’m interested in software development and learning new programming languages.
+- 🌱 I’m currently learning Python and JavaScript.
+- 💞️ I’m looking to collaborate on projects that involve developing innovative software solutions.
+- 📫 How to reach me: [https://www.linkedin.com/in/mohammadali-farhad-18b051178/]
