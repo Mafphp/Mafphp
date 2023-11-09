@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammadali Farhad
 - 👀 I’m interested in software development and learning new programming languages.
-- 🌱 I’m currently learning Python and JavaScript.
+- 🌱 I’m currently learning Python, Go.
 - 💞️ I’m looking to collaborate on projects that involve developing innovative software solutions.
-- 📫 How to reach me: [https://www.linkedin.com/in/mohammadali-farhad-18b051178/]
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/mohammadali-farhad-18b051178/)
